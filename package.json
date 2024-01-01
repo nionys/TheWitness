@@ -1,0 +1,12 @@
+{
+  "name": "thewitness",
+  "version": "1.0.0",
+  "main": "test.js",
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  }
+}
